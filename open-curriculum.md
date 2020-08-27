@@ -1,5 +1,8 @@
 # Open Source Curriculum
 
+[![hackmd-github-sync-badge](https://hackmd.io/t4xnHlkAQ_adS910JIBrfQ/badge)](https://hackmd.io/t4xnHlkAQ_adS910JIBrfQ)
+
+
 This document aspires to become a comprehensive reading list for anyone seeking to deeply understand ‘open source’ as an ideology, a movement, an industry and more.
 
 This curriculum teaches:
