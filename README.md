@@ -1,9 +1,7 @@
 # Erlend Sogge Heggen
 
-[https://community.amethyst.rs/t/welcome-say-hello/99/](https://community.amethyst.rs/t/welcome-say-hello/99/4)
-
-**Location:** Oslo, Norway
-**Name pronunciation:** Erlend can be pronounced the same way you’d pronounce “Alan” or “Allen”, as in Alan Turing or Allen Ginsberg.
+**Location:** Oslo, Norway\
+**Name pronunciation:** Erlend can be pronounced the same way you’d pronounce “Alan” or “Allen”, as in Alan Turing or Allen Ginsberg. But earl-end is also fine!\
 **Pronouns:** he/him
 
 # **Work-centric bio**
@@ -20,11 +18,11 @@ Doing design work, QA and community management I helped a gifted programmer deve
 
 That tech was [jMonkeyEngine](https://jmonkeyengine.org/), a game engine in Java that is still going pretty strong today! Most of what I know about open source I learned from 7 years of working on that project. jME competed for my attention throughout several big milestones in my life:
 
-6 months in Chile as an exchange student.
-4 months in Ghana as a volunteer worker.
-1-2 years of studying psychology and later Norse mythology at the University of Oslo.
-2 years of studying Game Design at the Vancouver Film School in Canada.
-6 months living in Vancouver, barely getting by as a WordPress contractor.
+6 months in Chile as an exchange student.\
+4 months in Ghana as a volunteer worker.\
+1-2 years of studying psychology and later Norse mythology at the University of Oslo.\
+2 years of studying Game Design at the Vancouver Film School in Canada.\
+6 months living in Vancouver, barely getting by as a WordPress contractor.\
 1 year working my first job at WeWantToKnow / DragonBox
 
 ## DragonBox
@@ -48,3 +46,5 @@ Towards the end of my tenure at Discourse I was running a team of 10 community a
 ## Rust GameDev
 
 The year thereafter was spent getting deeply involved with the Rust game development ecosystem, culminating in me joining the board of the [Amethyst](https://amethyst.rs/) game engine and the Rust gamedev working group. A lot of my time there is spent consulting indie developers on how they can turn their passion projects into a sustainable living.
+
+[https://community.amethyst.rs/t/welcome-say-hello/99/](https://community.amethyst.rs/t/welcome-say-hello/99/4)
