@@ -6,7 +6,7 @@
 
 # **Work-centric bio**
 
-**tl;dr:** *Erlend has been working in open source, games and web tech for the past 15 years. Most recently he worked 4 years at [Discourse](https://www.discourse.org/) as VP of Community. He is now consulting as an Open Source Strategist for [MeiliSearch](https://www.meilisearch.com/) and runs the podcast [Value in Open](https://www.valueinopen.fm/). He also maintains the [Openness Movement (open source) Curriculum](https://github.com/equitableopen/openness-movement_curriculum).*
+**Brief:** *Erlend has been working in open source, games and web tech for the past 15 years. Recently he worked 4 years at [Discourse](https://www.discourse.org/) as VP of Community. He is now consulting as an Open Source Strategist for [Heroic Labs](https://heroiclabs.com/) and runs the podcast [Value in Open](https://www.valueinopen.fm/). He also maintains the [Openness Curriculum](https://github.com/equitableopen/openness-movement_curriculum).*
 
 ## Wc3 Modding
 
@@ -45,6 +45,6 @@ Towards the end of my tenure at Discourse I was running a team of 10 community a
 
 ## Rust GameDev
 
-The year thereafter was spent getting deeply involved with the Rust game development ecosystem, culminating in me joining the board of the [Amethyst](https://amethyst.rs/) game engine and the Rust gamedev working group. A lot of my time there is spent consulting indie developers on how they can turn their passion projects into a sustainable living.
+The year thereafter was spent getting deeply involved with the Rust game development ecosystem, culminating in me [joining the board](https://community.amethyst.rs/t/welcome-say-hello/99/](https://community.amethyst.rs/t/welcome-say-hello/99/4) of the [Amethyst](https://amethyst.rs/) game engine and the [Rust gamedev working group](https://www.rust-lang.org/governance/wgs/gamedev). A lot of my time there is spent consulting indie developers on how they can turn their passion projects into a sustainable living.
 
-[https://community.amethyst.rs/t/welcome-say-hello/99/](https://community.amethyst.rs/t/welcome-say-hello/99/4)
+My most active personal pet-project is a MOBA game called [Shotcaller](https://github.com/amethyst/shotcaller).
