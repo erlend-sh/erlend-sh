@@ -45,6 +45,6 @@ Towards the end of my tenure at Discourse I was running a team of 10 community a
 
 ## Rust GameDev
 
-The year thereafter was spent getting deeply involved with the Rust game development ecosystem, culminating in me [joining the board](https://community.amethyst.rs/t/welcome-say-hello/99/](https://community.amethyst.rs/t/welcome-say-hello/99/4) of the [Amethyst](https://amethyst.rs/) game engine and the [Rust gamedev working group](https://www.rust-lang.org/governance/wgs/gamedev). A lot of my time there is spent consulting indie developers on how they can turn their passion projects into a sustainable living.
+The year thereafter was spent getting deeply involved with the Rust game development ecosystem, culminating in me [joining the board](https://community.amethyst.rs/t/welcome-say-hello/99/4) of the [Amethyst](https://amethyst.rs/) game engine and the [Rust gamedev working group](https://www.rust-lang.org/governance/wgs/gamedev). A lot of my time there is spent consulting indie developers on how they can turn their passion projects into a sustainable living.
 
 My most active personal pet-project is a MOBA game called [Shotcaller](https://github.com/amethyst/shotcaller).
