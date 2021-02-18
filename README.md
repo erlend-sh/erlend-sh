@@ -3,10 +3,18 @@
 **Location:** Oslo, Norway\
 **Name pronunciation:** Erlend can be pronounced the same way you’d pronounce “Alan” or “Allen”, as in Alan Turing or Allen Ginsberg. But earl-end is also fine!\
 **Pronouns:** he/him
+**Religion:** all and none of them
+
+**Work Brief:** *I've been working in open source, games and web tech for the past 15 years.
+- 7 years leading the [jMonkeyEngine](https://jmonkeyengine.org/). We made a fully functional *game engine* together, which has been used professionally and is still actively maintained today.
+- 4 years at [Discourse](https://www.discourse.org/), first as a Community Advocate and eventually VP of Community. We put the final nail in the coffin of closed-source, proprietary forum software.
+- 3 years and still actively involved with the [Amethyst organisation](https://amethyst.rs/), the [Rust GameDev Working Group](https://www.rust-lang.org/governance/wgs/gamedev) and the [Rust gamedev ecosystem](https://arewegameyet.rs/) at large.
+- Few months in and increasingly more involved with [Heroic Labs](https://heroiclabs.com/) as an Open Source Strategist, Game Designer and Community Manager. 
+
+**Personal Brief:**
+I practice openness to the greatest extent possible, in my professional as well as my personal life. I'm actively trying to decsribe what that looks like in the open source book called [Open Source for Everyone](https://openeveryone.substack.com/p/open-source-for-everyone). Most of my influences are listed in the [Openness Curriculum](https://github.com/equitableopen/openness-movement_curriculum). I also made a podcast called [Value in Open](https://www.valueinopen.fm/), but it is on hold until I can make time for it again.
 
 # **Work-centric bio**
-
-**Brief:** *Erlend has been working in open source, games and web tech for the past 15 years. Recently he worked 4 years at [Discourse](https://www.discourse.org/) as VP of Community. He is now consulting as an Open Source Strategist for [Heroic Labs](https://heroiclabs.com/) and runs the podcast [Value in Open](https://www.valueinopen.fm/). He also maintains the [Openness Curriculum](https://github.com/equitableopen/openness-movement_curriculum).*
 
 ## Wc3 Modding
 
@@ -33,18 +41,20 @@ After a year of this, one of my best friends called me up one day and asked me i
 
 ## Formative Travels
 
-[Rashidieh Camp](https://www.unrwa.org/where-we-work/lebanon/rashidieh-camp) was like a tiny city of 30’000 people living in brick & cement households. It is closing in on being a *century* old, having been established in 1936 (the Palestinians arrived later, in 1963). As such it is a strange place where time has stood still for generations. One of the best ways for the camp’s (especially younger) inhabitants to get out is by means of the internet, which lets them connect with people and opportunities. The internet was an important grounding force for me as well. In contrast to the constant maintenance mode of the camp, the web was a reliable reminder of forward movement.
+[Rashidieh Camp](https://www.unrwa.org/where-we-work/lebanon/rashidieh-camp) is a tiny city of 30’000 people living in brick & cement households. It is closing in on being a *century* old, having been established in 1936 (the Palestinians arrived later, in 1963). As such it is a strange place where time has stood still for generations. One of the best ways for the camp’s (especially younger) inhabitants to get out is by means of the internet, which lets them connect with people and opportunities. The internet was an important grounding force for me as well during my stay there. The web was a reliable reminder of forward movement in a place that was literally forbidden by law to develop itself.
 
-> 🕊 My experience in places like Rashidieh has deeply affected my ethics and worldview. What separates me from the people living under radically more difficult conditions is pure luck. I’m drawn to open source and remote working because the barrier to entry is relatively low. Given an education, a computer and an internet connection, there’s a way up. It is one of my lifelong agendas to be part of companies that provide opportunity to those who have none.
+> 🕊 My experience in places like Rashidieh has deeply affected my ethics and worldview. What separates me from the people living under radically more difficult conditions is pure luck. I’m drawn to innovations like open source and remote working because the barrier to entry is relatively low. Given an education, a computer and an internet connection, there’s a way up and out. It is one of my lifelong agendas to be part of companies that provide opportunity to those who have none.
 
 ## Discourse
 
-By the time I returned to Norway I had already been getting quite actively involved in the [Discourse community](https://meta.discourse.org/). We were using the Discourse forum platform for jMonkeyEngine, and I soon found myself spending more time on Discourse than jME. Eventually I was contributing on such a regular basis that it just made sense to have me join the company as their [first Community Advocate](https://blog.discourse.org/2015/12/discourse-team-grows-by-50/). This was a monumental moment for me as I had never before been paid to do this *open source thing* that had occupied so much of my time and brain cycles. I quickly learned the crucial [difference between an open source project and an open source company](https://meta.discourse.org/t/which-is-better-discourse-or-flarum/71726/7) and how they’re not mutually exclusive, but rather highly complementary. Some of my favorite projects at Discourse include the [Encouragement Fund](https://blog.discourse.org/2017/02/the-discourse-encouragement-fund/) and our [Free Hosting program](https://blog.discourse.org/2018/11/free-hosting-for-open-source-v2/), as well as a whole bunch of [open product development](https://meta.discourse.org/u/erlend_sh/summary).
+By the time I returned to Norway I had already been getting quite actively involved in the [Discourse community](https://meta.discourse.org/). We were using the Discourse forum platform for jMonkeyEngine, and I soon found myself spending more time on Discourse than jME. Eventually I was contributing on such a regular basis that it just made sense to have me join the company as their [first Community Advocate](https://blog.discourse.org/2015/12/discourse-team-grows-by-50/). This was a monumental moment for me as I had never before been paid to do this *open source thing* that had occupied so much of my time and brain cycles on a purely volunteer basis. I quickly learned the crucial [difference between an open source project and an open source company](https://meta.discourse.org/t/which-is-better-discourse-or-flarum/71726/7) and how they’re not mutually exclusive, but rather highly complementary. Some of my favorite projects at Discourse include the [Encouragement Fund](https://blog.discourse.org/2017/02/the-discourse-encouragement-fund/) and our [Free Hosting program](https://blog.discourse.org/2018/11/free-hosting-for-open-source-v2/), as well as a whole bunch of [open product development](https://meta.discourse.org/u/erlend_sh/summary).
 
 Towards the end of my tenure at Discourse I was running a team of 10 community advocates split between me and my counterpart in New Zealand. I was deeply invested in the company with strong opinions on how it should be run. These opinions eventually diverged so far from those of the founders that continuing to work there was untenable for me. We amicably parted ways and I’m still in touch with some of my friends from there.
 
 ## Rust GameDev
 
-The year thereafter was spent getting deeply involved with the Rust game development ecosystem, culminating in me [joining the board](https://community.amethyst.rs/t/welcome-say-hello/99/4) of the [Amethyst](https://amethyst.rs/) game engine and the [Rust gamedev working group](https://www.rust-lang.org/governance/wgs/gamedev). A lot of my time there is spent consulting indie developers on how they can turn their passion projects into a sustainable living.
+The year thereafter was spent getting deeply involved with the Rust game development ecosystem, culminating in me [joining the board](https://community.amethyst.rs/t/welcome-say-hello/99/4) of the Amethyst organisation and [helping to establish](https://internals.rust-lang.org/t/a-working-group-for-rust-game-development/8240) the Rust GameDev Working Group. A lot of my time in the Rust gamedev community is spent consulting indie developers on how they can turn their passion projects into a sustainable living.
 
 My most active personal pet-project is a MOBA game called [Shotcaller](https://github.com/amethyst/shotcaller).
+
+In my work for Heroic Labs I am coordinating the development of [Fish Game](https://forum.heroiclabs.com/t/fish-game-an-open-reference-game-using-nakama-for-multiplayer/1279?u=erlend_sh), an open source arcade game for 1-4 players.
