@@ -1,8 +1,8 @@
 # Erlend Sogge Heggen
 
 **Location:** Oslo, Norway\
-**Name pronunciation:** Erlend can be pronounced the same way you’d pronounce “Alan” or “Allen”, as in Alan Turing or Allen Ginsberg. But earl-end is also fine!\
-**Pronouns:** he/him
+**Name pronunciation:** Erlend can be pronounced the same way you’d pronounce “Alan” or “Allen”, as in Alan Watts or Allen Ginsberg. But earl-end is also fine!\
+**Pronouns:** he/him\
 **Religion:** all and none of them
 
 **Work Brief:** I've been working in open source, games and web tech for the past 15 years.
