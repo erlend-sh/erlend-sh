@@ -9,7 +9,6 @@
 - 7 years leading the [jMonkeyEngine](https://jmonkeyengine.org/). We made a fully functional *game engine* together, which has been used professionally and is still actively maintained today.
 - 4 years at [Discourse](https://www.discourse.org/), first as a Community Advocate and eventually VP of Community. We put the final nail in the coffin of closed-source, proprietary forum software.
 - 3 years and still actively involved with the [Amethyst organisation](https://amethyst.rs/), the [Rust GameDev Working Group](https://www.rust-lang.org/governance/wgs/gamedev) and the [Rust gamedev ecosystem](https://arewegameyet.rs/) at large.
-- Few months in and increasingly more involved with [Heroic Labs](https://heroiclabs.com/) as an Open Source Strategist, Game Designer and Community Manager. 
 
 **Personal Brief:**
 I practice openness to the greatest extent possible, in my professional as well as my personal life. I'm actively trying to decsribe what that looks like in the open source book called [Open Source for Everyone](https://openeveryone.substack.com/p/open-source-for-everyone). Most of my influences are listed in the [Openness Curriculum](https://github.com/equitableopen/openness-movement_curriculum). I also made a podcast called [Value in Open](https://www.valueinopen.fm/), but it is on hold until I can make time for it again.
@@ -49,12 +48,14 @@ After a year of this, one of my best friends called me up one day and asked me i
 
 By the time I returned to Norway I had already been getting quite actively involved in the [Discourse community](https://meta.discourse.org/). We were using the Discourse forum platform for jMonkeyEngine, and I soon found myself spending more time on Discourse than jME. Eventually I was contributing on such a regular basis that it just made sense to have me join the company as their [first Community Advocate](https://blog.discourse.org/2015/12/discourse-team-grows-by-50/). This was a monumental moment for me as I had never before been paid to do this *open source thing* that had occupied so much of my time and brain cycles on a purely volunteer basis. I quickly learned the crucial [difference between an open source project and an open source company](https://meta.discourse.org/t/which-is-better-discourse-or-flarum/71726/7) and how they’re not mutually exclusive, but rather highly complementary. Some of my favorite projects at Discourse include the [Encouragement Fund](https://blog.discourse.org/2017/02/the-discourse-encouragement-fund/) and our [Free Hosting program](https://blog.discourse.org/2018/11/free-hosting-for-open-source-v2/), as well as a whole bunch of [open product development](https://meta.discourse.org/u/erlend_sh/summary).
 
-Towards the end of my tenure at Discourse I was running a team of 10 community advocates split between me and my counterpart in New Zealand. I was deeply invested in the company with strong opinions on how it should be run. These opinions eventually diverged so far from those of the founders that continuing to work there was untenable for me. We amicably parted ways and I’m still in touch with some of my friends from there.
+Towards the end of my tenure at Discourse I was running a team of 10 community advocates split between me and my counterpart in New Zealand. I was deeply invested in the company with strong opinions on how it should be run. These opinions eventually diverged so far from those of the founders that our paths were no longer aligned, and so we amicably parted ways.
 
 ## Rust GameDev
 
 The year thereafter was spent getting deeply involved with the Rust game development ecosystem, culminating in me [joining the board](https://community.amethyst.rs/t/welcome-say-hello/99/4) of the Amethyst organisation and [helping to establish](https://internals.rust-lang.org/t/a-working-group-for-rust-game-development/8240) the Rust GameDev Working Group. A lot of my time in the Rust gamedev community is spent consulting indie developers on how they can turn their passion projects into a sustainable living.
 
-My most active personal pet-project is a MOBA game called [Shotcaller](https://github.com/amethyst/shotcaller).
+I'm now actively working on [Fish Fight](https://twitter.com/fishfightgame).
 
-In my work for Heroic Labs I am coordinating the development of [Fish Game](https://forum.heroiclabs.com/t/fish-game-an-open-reference-game-using-nakama-for-multiplayer/1279?u=erlend_sh), an open source arcade game for 1-4 players.
+## Discourse - round 2
+
+I've rejoined Discourse as a Product Manager. More on what I'm working on soon!
