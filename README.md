@@ -1,9 +1,9 @@
 # Erlend Sogge Heggen
 
 **Location:** Oslo, Norway\
-**Name pronunciation:** Erlend can be pronounced the same way you’d pronounce “Alan” or “Allen”, as in Alan Watts or Allen Ginsberg. But earl-end is also fine!\
+**Name pronunciation:** Erlend can be pronounced the same way you’d pronounce “Alan” or “Allen”, but earl-end is also fine!\
 **Pronouns:** he/him\
-**Religion:** all and none of them
+**Religion:** kindness
 
 **Work Brief:** I've been working in open source, games and web tech for the past 15 years.
 - 7 years leading the [jMonkeyEngine](https://jmonkeyengine.org/). We made a fully functional *game engine* together, which has been used professionally and is still actively maintained today.
