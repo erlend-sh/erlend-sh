@@ -50,12 +50,12 @@ By the time I returned to Norway I had already been getting quite actively invol
 
 Towards the end of my tenure at Discourse I was running a team of 10 community advocates split between me and my counterpart in New Zealand. I was deeply invested in the company with strong opinions on how it should be run. These opinions eventually diverged so far from those of the founders that our paths were no longer aligned, and so we amicably parted ways.
 
+**Update:** In Q3 & Q4 of 2021 I directed the [introduction of chat to Discourse](https://meta.discourse.org/t/introducing-discourse-chat-pre-alpha/210734).
+
 ## Rust GameDev
 
 The year thereafter was spent getting deeply involved with the Rust game development ecosystem, culminating in me [joining the board](https://community.amethyst.rs/t/welcome-say-hello/99/4) of the Amethyst organisation and [helping to establish](https://internals.rust-lang.org/t/a-working-group-for-rust-game-development/8240) the Rust GameDev Working Group. A lot of my time in the Rust gamedev community is spent consulting indie developers on how they can turn their passion projects into a sustainable living.
 
-I'm now actively working on [Fish Fight](https://twitter.com/fishfightgame).
+I'm now actively working on [Fish Fight](https://twitter.com/fishfightgame) game and the 'open indie' [Spicy Lobster](https://spicylobster.itch.io) studio.
 
-## Discourse - round 2
 
-I've rejoined Discourse as a Product Manager. More on what I'm working on soon!
