@@ -11,7 +11,7 @@
 - 3 years and still actively involved with the [Amethyst organisation](https://amethyst.rs/), the [Rust GameDev Working Group](https://www.rust-lang.org/governance/wgs/gamedev) and the [Rust gamedev ecosystem](https://arewegameyet.rs/) at large.
 
 **Personal Brief:**
-I practice openness to the greatest extent possible, in my professional as well as my personal life. I'm actively trying to decsribe what that looks like in the open source book called [Open Source for Everyone](https://openeveryone.substack.com/p/open-source-for-everyone). Most of my influences are listed in the [Openness Curriculum](https://github.com/equitableopen/openness-movement_curriculum). I also made a podcast called [Value in Open](https://www.valueinopen.fm/), but it is on hold until I can make time for it again.
+I practice openness to the greatest extent possible, in my professional as well as my personal life. I'm actively trying to decsribe what that looks like in the open source booklet called [Open Source Explained](https://blog.erlend.sh/open-source-explained). Most of my influences are listed in the [Open Source Curriculum](https://github.com/erlend-sh/opensource-curriculum). I also made a podcast called [Value in Open](https://www.valueinopen.fm/), but it is on hold until I can make time for it again.
 
 # **Work-centric bio**
 
