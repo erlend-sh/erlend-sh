@@ -3,7 +3,7 @@
 **Location:** Oslo, Norway\
 **Name pronunciation:** Erlend can be pronounced the same way you’d pronounce “Alan” or “Allen”, but earl-end is also fine!\
 **Pronouns:** he/him\
-**Religion:** kindness
+**Religion:** kindness\
 **Contact:** Email or Discord: erlend#1111
 
 **Work Brief:** I've been working in open source, games and web tech for the past 15 years.
