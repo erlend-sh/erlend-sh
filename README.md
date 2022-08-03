@@ -4,7 +4,7 @@
 **Name pronunciation:** Erlend can be pronounced the same way you’d pronounce “Alan” or “Allen”, but earl-end is also fine!\
 **Pronouns:** he/him\
 **Religion:** kindness\
-**Contact:** Email or Discord: erlend#1111
+**Contact:** Email or `erlend#1111` on Discord.
 
 **Work Brief:** I've been working in open source, games and web tech for the past 15 years.
 - 7 years leading the [jMonkeyEngine](https://jmonkeyengine.org/). We made a fully functional *game engine* together, which has been used professionally and is still actively maintained today.
