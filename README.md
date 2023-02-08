@@ -6,6 +6,8 @@
 **Religion:** kindness\
 **Contact:** Email or `erlend#1111` on Discord.
 
+Mainly hanging out in the chat rooms of [Spicy Lobster](https://discord.gg/HgrkqqB8Ru) and [Community OS](https://discord.gg/BkEpMzzh38).
+
 **Work Brief:** I've been working in open source, games and web tech for the past 15 years.
 - 7 years leading the [jMonkeyEngine](https://jmonkeyengine.org/). We made a fully functional *game engine* together, which has been used professionally and is still actively maintained today.
 - 4 years at [Discourse](https://www.discourse.org/), first as a Community Advocate and eventually VP of Community. We put the final nail in the coffin of closed-source, proprietary forum software.
