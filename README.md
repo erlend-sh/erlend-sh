@@ -9,9 +9,9 @@
 Mainly hanging out in the chat rooms of [Spicy Lobster](https://discord.gg/HgrkqqB8Ru) and [Community OS](https://discord.gg/BkEpMzzh38).
 
 **Work Brief:** I've been working in open source, games and web tech for the past 15 years.
-- 7 years leading the [jMonkeyEngine](https://jmonkeyengine.org/). We made a fully functional *game engine* together, which has been used professionally and is still actively maintained today.
-- 4 years at [Discourse](https://www.discourse.org/), first as a Community Advocate and eventually VP of Community. We put the final nail in the coffin of closed-source, proprietary forum software.
-- 3 years and still actively involved with the [Amethyst organisation](https://amethyst.rs/), the [Rust GameDev Working Group](https://www.rust-lang.org/governance/wgs/gamedev) and the [Rust gamedev ecosystem](https://arewegameyet.rs/) at large.
+- 7 years leading [jMonkeyEngine](https://jmonkeyengine.org/). We made a fully functional *game engine* together, which has been used professionally and is still actively maintained today.
+- 4 years at [Discourse](https://www.discourse.org/), first as a Community Advocate and eventually VP of Community (and a 6 month stint as a Product Lead).
+- 4 years and still actively involved with the [Amethyst organisation](https://amethyst.rs/), the [Rust GameDev Working Group](https://www.rust-lang.org/governance/wgs/gamedev) and the [Rust gamedev ecosystem](https://arewegameyet.rs/) at large.
 
 **Personal Brief:**
 I practice openness to the greatest extent possible, in my professional as well as my personal life. I'm actively trying to decsribe what that looks like in the open source booklet called [Open Source Explained](https://blog.erlend.sh/open-source-explained). Most of my influences are listed in the [Open Source Curriculum](https://github.com/erlend-sh/opensource-curriculum). I also made a podcast called [Value in Open](https://www.valueinopen.fm/), but it is on hold until I can make time for it again.
@@ -59,6 +59,6 @@ Towards the end of my tenure at Discourse I was running a team of 10 community a
 
 The year thereafter was spent getting deeply involved with the Rust game development ecosystem, culminating in me [joining the board](https://community.amethyst.rs/t/welcome-say-hello/99/4) of the Amethyst organisation and [helping to establish](https://internals.rust-lang.org/t/a-working-group-for-rust-game-development/8240) the Rust GameDev Working Group. A lot of my time in the Rust gamedev community is spent consulting indie developers on how they can turn their passion projects into a sustainable living.
 
-I'm now actively working on [Fish Fight](https://twitter.com/fishfightgame) game and the 'open indie' [Spicy Lobster](https://spicylobster.itch.io) studio.
+## Now
 
-
+I'm now actively working on the [Fish Folk]([https://twitter.com/fishfightgame](https://github.com/fishfolk)) game and the 'open indie' [Spicy Lobster](https://spicylobster.itch.io) studio. I also run the [Commune](https://github.com/commune-org) project, aka the 'Community OS stack'.
