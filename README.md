@@ -1,17 +1,15 @@
 # Erlend Sogge Heggen
 
-**Location:** Oslo, Norway\
-**Name pronunciation:** Erlend can be pronounced the same way you’d pronounce “Alan” or “Allen”, but earl-end is also fine!\
-**Pronouns:** he/him\
 **Religion:** kindness\
-**Contact:** Email or `erlend#1111` on Discord.
+**Contact:** Email, or `erlend` on Discord.\
+**Name pronunciation:** Erlend can be pronounced the same way you’d pronounce “Alan” or “Allen”, but earl-end is also fine!\
 
 Mainly hanging out in the chat rooms of [Spicy Lobster](https://discord.gg/HgrkqqB8Ru) and [Community OS](https://discord.gg/BkEpMzzh38).
 
-**Work Brief:** I've been working in open source, games and web tech for the past 15 years.
+**Work Brief:** I've been working in open source, games and web tech for the past ~20 years.
 - 7 years leading [jMonkeyEngine](https://jmonkeyengine.org/). We made a fully functional *game engine* together, which has been used professionally and is still actively maintained today.
-- 4 years at [Discourse](https://www.discourse.org/), first as a Community Advocate and eventually VP of Community (and a 6 month stint as a Product Lead).
-- 4 years and still actively involved with the [Amethyst organisation](https://amethyst.rs/), the [Rust GameDev Working Group](https://www.rust-lang.org/governance/wgs/gamedev) and the [Rust gamedev ecosystem](https://arewegameyet.rs/) at large.
+- 5 years at [Discourse](https://www.discourse.org/), first as a Community Advocate and eventually VP of Community (and a 6 month stint as a Product Lead).
+- 4 years with the [Amethyst organisation](https://amethyst.rs/), the [Rust GameDev Working Group](https://www.rust-lang.org/governance/wgs/gamedev) and the [Rust gamedev ecosystem](https://arewegameyet.rs/) at large.
 
 **Personal Brief:**
 I practice openness to the greatest extent possible, in my professional as well as my personal life. I'm actively trying to decsribe what that looks like in the open source booklet called [Open Source Explained](https://blog.erlend.sh/open-source-explained). Most of my influences are listed in the [Open Source Curriculum](https://github.com/erlend-sh/opensource-curriculum). I also made a podcast called [Value in Open](https://www.valueinopen.fm/), but it is on hold until I can make time for it again.
