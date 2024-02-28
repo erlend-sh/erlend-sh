@@ -2,7 +2,7 @@
 
 **Religion:** kindness\
 **Contact:** Email, or `erlend` on Discord.\
-**Name pronunciation:** Erlend can be pronounced the same way you’d pronounce “Alan” or “Allen”, but earl-end is also fine!\
+**Name pronunciation:** Erlend can be pronounced the same way you’d pronounce “Alan” or “Allen”, but earl-end is also fine!
 
 Mainly hanging out in the chat rooms of [Spicy Lobster](https://discord.gg/HgrkqqB8Ru) and [Community OS](https://discord.gg/BkEpMzzh38).
 
