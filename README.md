@@ -59,4 +59,4 @@ The year thereafter was spent getting deeply involved with the Rust game develop
 
 ## Now
 
-I'm now actively working on the [Fish Folk]([https://twitter.com/fishfightgame](https://github.com/fishfolk)) game and the 'open indie' [Spicy Lobster](https://spicylobster.itch.io) studio. I also run the [Commune](https://github.com/commune-org) project, aka the 'Community OS stack'.
+I'm now actively working on the [Fish Folk]([https://twitter.com/fishfightgame](https://github.com/fishfolk)) game and the 'open indie' [Spicy Lobster](https://spicylobster.itch.io) studio. I also run the [Commune](https://github.com/commune-os) project, aka the 'Community OS stack'.
