@@ -11,7 +11,7 @@
 Working on [Weird](https://weird.one/) (in [Muni Town](https://github.com/muni-town/)) and  [Fish Folk](https://github.com/fishfolk/) (in [Spicy Lobster studio](https://spicylobster.itch.io/jumpy/devlog/356201/spicy-lobster-open-gamedev-company)) 
 
 ### Work Brief
-I've been working in open source, games and web tech for the past ~20 years. My most notable projects lasted for 5+ years:
+I've been working in open source, games and web tech for the past ~20 years. My most notable projects lasted for 5+ years each:
 - [jMonkeyEngine](https://jmonkeyengine.org/) – Project Lead. We made a fully functional game engine together, still in use by professionals and hobbyists today.
 - [Discourse](https://www.discourse.org/) – first as a Community Advocate, then VP of Community and lastly a 6 month stint as a Product Lead.
 - [Amethyst organisation](https://github.com/amethyst/) – Project Manager. Founding member of the [Rust GameDev Working Group](https://www.rust-lang.org/governance/wgs/gamedev).
@@ -27,8 +27,8 @@ These are some of the key influencers of my thinking as a digital activist and m
 - [Krista Tippet](https://onbeing.org/our-story/krista-tippett/) – Poetic existentialism
 - [Cory Doctorow](https://pluralistic.net/) – Digital reform
 - [Erin Kissane](https://erinkissane.com/) – Digital research
-- [Sam Harris](https://www.samharris.org/) – Mindfulness
 - [Nate Hagens](https://www.natehagens.com/) – Systems thinking
+- [Sam Harris](https://www.samharris.org/) – Mindfulness
 - [Tara Brach](https://www.tarabrach.com/) – Embodiment
 - [Alan Watts](https://alanwatts.org/) – Spirituality
 - [Ram Dass](https://www.ramdass.org/) – Mysticism
