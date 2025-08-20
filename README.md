@@ -48,6 +48,7 @@ I love tending to my thoughts as a digital gardener. These are my essential piec
 - [Communal Bonfires](https://blog.erlend.sh/communal-bonfires)
   - [Chat is minimum-viable anything](https://blog.commune.sh/chat-is-minimum-viable-anything/)
   - [Federated Webrings](https://blog.commune.sh/federated-webrings/)
+  - [Cozy Community Software](https://blog.erlend.sh/cozy-community-software)
   - [Chatty Community Gardens](https://blog.muni.town/chatty-community-gardens/)
 - [Big AI Commons](https://blog.erlend.sh/big-ai-commons)
   - [Earnest AI](https://blog.erlend.sh/earnest-ai)
