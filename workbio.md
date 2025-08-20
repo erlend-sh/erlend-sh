@@ -71,8 +71,8 @@ Coming back full circle to my Wc3 origins, this studio would specialize in makin
 
 In typical gamedev fashion we've since missed our intended launch date by a nautical mile. 2025 will be Fish Folk's big year; we just gotta fix the internet real quick first.
 
-## Community OS & the fediverse
+## Muni Town & open comms protocols
 
 In 2023 the web I'd grown up in started to come apart at the seams. I began writing about it in a series called [Reclaiming my digital identity](https://blog.erlend.sh/reclaiming-my-digital-identity). This train of thought quickly led to the conceptual and progressively tangible notion of a [Community OS](https://blog.erlend.sh/assembling-community-os), an operating system for digital communications, assembled with modern-day web protocols.
 
-[2023 was a year of much rumination and writing](https://blog.erlend.sh/archive/). As the months passed the urgency of change grew more intense. By early 2024 I teamed up with the lead dev of Fish Folk to reify what felt like our best shot at making all of our other indie ventures possible downstream: [Weird](https://weird.one/).
+[2023 was a year of much rumination and writing](https://blog.erlend.sh/archive/) about the *fediverse* and other emerging web protocols. As the months passed the urgency of change grew more intense. By early 2024 I teamed up with the lead dev of Fish Folk to reify what felt like our best shot at making all of our other indie ventures possible downstream: [Weird](https://weird.one/), which has since morphed into [Roomy](https://a.roomy.space/), a [gardenable](https://blog.muni.town/chatty-community-gardens/) group chat.
